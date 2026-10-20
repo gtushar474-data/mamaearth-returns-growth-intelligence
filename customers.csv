@@ -1,0 +1,46 @@
+customer_id,customer_name,city,city_tier,signup_date,acquisition_source
+101,Aarav Sharma,Guwahati,3,2025-05-17,Referral
+102,Gaurav Singh,Bengaluru,1,2024-07-09,Google Ads
+103,Varun Choudhary,Lucknow,2,2024-11-22,Google Ads
+104,Ananya Iyer,Nashik,3,2024-09-06,Influencer Marketing
+105,Aditi Verma,Delhi,1,2024-07-25,Organic Search
+106,Rahul Yadav,Hyderabad,1,2025-05-01,Organic Search
+107,Akash Patil,Delhi,1,2025-03-30,Instagram
+108,Ayesha Khan,Chandigarh,2,2024-07-25,Google Ads
+109,Bhavna Joshi,Indore,2,2024-08-09,Influencer Marketing
+110,Suresh Pillai,Lucknow,2,2024-10-04,Google Ads
+111,Farhan Siddiqui,Jaipur,2,2024-07-01,Instagram
+112,Manish Gupta,Jaipur,2,2025-06-03,Google Ads
+113,Anil Kulkarni,Dehradun,3,2024-06-30,Instagram
+114,Chetan Desai,Indore,2,2024-08-28,Instagram
+115,Lakshmi Narayanan,Raipur,3,2024-06-13,Organic Search
+116,Arjun Mehta,Delhi,1,2024-07-05,Organic Search
+117,Tarun Bansal,Chandigarh,2,2025-06-09,Influencer Marketing
+118,Amit Dubey,Raipur,3,2024-12-09,Instagram
+119,Simran Arora,Nashik,3,2024-08-20,Google Ads
+120,Vandana Mishra,Dehradun,3,2025-02-23,Referral
+121,Shreya Ghosh,Pune,1,2024-12-15,Facebook Ads
+122,Karan Malhotra,Nashik,3,2024-10-05,Organic Search
+123,Uday Thakur,Nagpur,2,2024-06-19,Organic Search
+124,Nikhil Rao,Bengaluru,1,2025-04-12,Referral
+125,Harpreet Kaur,Mumbai,1,2025-06-18,Organic Search
+126,Meera Bhatt,Mumbai,1,2024-11-20,Facebook Ads
+127,Divya Reddy,Bengaluru,1,2024-11-05,Facebook Ads
+128,Vikram Rathore,Dehradun,3,2025-06-28,Referral
+129,Prerna Saxena,Pune,1,2024-06-24,Influencer Marketing
+130,Sana Sheikh,Nagpur,2,2025-06-22,Instagram
+131,Jayesh Shah,Hyderabad,1,2025-04-15,Referral
+132,Sneha Kulkarni,Guwahati,3,2025-01-29,Influencer Marketing
+133,Kavya Menon,Chandigarh,2,2024-07-18,Referral
+134,Sandeep Nambiar,Indore,2,2024-11-09,Google Ads
+135,Ishita Banerjee,Nagpur,2,2024-06-13,Facebook Ads
+136,Zoya Ansari,Guwahati,3,2024-08-05,Facebook Ads
+137,Rohan Pawar,Mumbai,1,2024-12-19,Facebook Ads
+138,Pooja Deshmukh,Pune,1,2024-11-15,Organic Search
+139,Deepika Nair,Hyderabad,1,2024-11-22,Instagram
+140,Riya Kapoor,Jaipur,2,2025-04-07,Influencer Marketing
+141,Yash Tiwari,Bengaluru,1,2025-05-01,Organic Search
+142,Mohit Agarwal,Lucknow,2,2025-03-13,Influencer Marketing
+143,Tanvi Bhosale,Raipur,3,2025-05-10,Organic Search
+144,Neha Chopra,Delhi,1,2024-06-18,Organic Search
+145,Siddharth Jain,Mumbai,1,2024-08-27,Organic Search
