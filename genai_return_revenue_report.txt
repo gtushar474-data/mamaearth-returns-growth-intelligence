@@ -1,0 +1,46 @@
+# Mamaearth Returns and Revenue Analysis Report
+
+**Date:** May 22, 2024  
+**Prepared by:** Business Data Analyst  
+**Subject:** Analysis of Order Returns and Monthly Revenue Performance
+
+---
+
+### 1. Executive Summary
+This report provides an analysis of 180 total orders processed by Mamaearth. The focus is on evaluating revenue trends, understanding the impact of outliers on performance metrics, and assessing return rates across various payment methods. Our analysis indicates distinct variations in return behavior depending on the payment mode, with UPI and Card transactions exhibiting higher return rates compared to Cash on Delivery (COD).
+
+---
+
+### 2. Revenue Analysis
+*   **Revenue Comparison:** Data cleaning protocols were applied to identify quantity outliers, primarily impacting the months of June 2026 and July 2026. Excluding these outliers resulted in a downward adjustment of revenue for these two months. For all other periods, the revenue remains consistent regardless of the cleaning filter.
+*   **Discounts:** Information regarding raw and cleaned discounted order values is currently unavailable for this report.
+*   **Retained Order Value:** Data regarding the retained order value (calculated by excluding returned orders) is currently unavailable. Please note that excluding returned orders provides a metric for retained order value, which should not be confused with verified accounting revenue.
+
+---
+
+### 3. Returns Analysis
+*   **Return Rates by Payment Method:**
+    *   **UPI:** 20.63% (13 returns out of 63 orders)
+    *   **CARD:** 20.51% (8 returns out of 39 orders)
+    *   **COD:** 15.07% (11 returns out of 73 orders)
+*   **City-Tier Analysis:** Information regarding return rates segmented by city tier is currently unavailable. 
+*   **Observation:** Customers using UPI and Cards currently show a higher return rate than those using COD. While this trend is observable, it does not imply that the payment method is the sole cause of the returns.
+
+---
+
+### 4. Monthly Revenue Performance
+*   **Peak Month Performance:** After excluding quantity outliers, the highest revenue month is **May 2026**, with a total of **₹13,271.10**. 
+*   **Ranking Changes:** Prior to the exclusion of outliers, the months of June 2026 (₹22,286.50) and July 2026 (₹20,302.50) held the top positions. Following the exclusion of flagged outliers, the ranking shifts significantly, as these months saw a reduction to ₹11,118.50 and ₹9,322.50, respectively. This highlights the importance of outlier management in accurate forecasting.
+
+---
+
+### 5. Business Recommendations
+*   **Operations:** Investigate the post-purchase experience for UPI and Card users, as these segments currently represent a higher proportion of returns compared to COD orders.
+*   **Customer Experience:** Since quantity outliers significantly skewed revenue reporting in June and July 2026, implement automated flags at the checkout stage to verify bulk orders, which may help in reducing future volatility.
+*   **Finance:** Conduct a deeper dive into the specific items associated with the identified quantity outliers to determine if these represent genuine bulk demand or potential data entry errors.
+*   **Data Strategy:** Future analysis should prioritize tracking city-tier data to better understand geographical return patterns and to refine regional logistics strategies.
+
+---
+
+### 6. Conclusion
+The current data set of 180 orders demonstrates a stable revenue baseline with specific spikes influenced by quantity outliers. By focusing on the variance in return rates between payment methods and stabilizing monthly revenue reporting through outlier management, Mamaearth can improve its operational efficiency and financial planning accuracy. Further analysis is required once missing data points—specifically regarding discounted order values and city-tier segments—become available.

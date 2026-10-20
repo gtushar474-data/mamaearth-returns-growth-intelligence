@@ -1,0 +1,45 @@
+
+MAMAEARTH RETURNS & GROWTH INTELLIGENCE REPORT
+
+Total orders before cleaning: 180
+Total orders after cleaning: None
+
+Potential duplicate rows identified:
+None
+
+Discounted order value before cleaning:
+Rs. None
+
+Discounted order value after cleaning:
+Rs. None
+
+Retained order value excluding returns:
+Rs. None
+
+Quantity outliers flagged:
+None
+
+COD return rate:
+None%
+
+Non-COD return rate:
+None%
+
+COD hypothesis result:
+Pending Python analysis
+
+Best month after excluding quantity outliers:
+None
+
+BUSINESS RECOMMENDATIONS
+
+1. Review duplicate orders before final revenue reporting.
+2. Investigate payment methods and customer segments with
+   higher return rates.
+3. Review unusually large orders instead of automatically
+   deleting them.
+4. Reconcile returned orders with actual refunds.
+5. Use the monthly revenue comparison to support planning.
+
+Note: These findings describe associations and calculated
+order values. They do not prove the causes of returns.
