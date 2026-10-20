@@ -1,0 +1,4 @@
+payment_method,total_orders,returned_orders,return_rate_pct
+UPI,63,13,20.63
+CARD,39,8,20.51
+COD,73,11,15.07
